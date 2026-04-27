@@ -52,4 +52,4 @@ const GROQ_API_KEY = "your_actual_groq_api_key_here";
 
 ## License
 
-MIT License
+Chandan Kumar(Intellectual Property)
