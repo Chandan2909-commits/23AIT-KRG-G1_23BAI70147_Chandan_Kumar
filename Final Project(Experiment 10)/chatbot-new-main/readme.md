@@ -1,10 +1,10 @@
-# PropFirm Intelligent Assistant
+# Financial Intelligent Assistant
 
 A customer-facing chatbot for proprietary trading firms that explains rules, challenges, risk limits, payouts, and operational policies.
 
 ## Features
 
-- Explains prop firm rules and policies
+- Explains financial firm rules and policies
 - Handles contextual follow-up questions
 - Built-in satisfaction tracking
 - Escalation to customer care when needed
